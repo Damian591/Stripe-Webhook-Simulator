@@ -1,0 +1,19 @@
+{
+  "id": "evt_1Sh1a12eZvKYlo2CeE8x9D1x",
+  "type": "customer.subscription.updated",
+  "data": {
+    "object": {
+      "sub_id": "sub_1Sh0oY2eZvKYlo2Cz9Xz5r5a",
+      "status": "active",
+      "start_date": 1717478400,
+      "current_period_start": 1720070400,
+      "current_period_end": 1722748800,
+      "cancel_at_period_end": true,
+      "canceled_at": null,
+      "ended_at": null,
+      "metadata": {
+        "customerId": "6842cfb133d3d690b78171ff"
+      }
+    }
+  }
+}
